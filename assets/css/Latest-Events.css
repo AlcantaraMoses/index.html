@@ -5,7 +5,7 @@
 }
 
 .blog-home2 h1, .blog-home2 h2, .blog-home2 h3, .blog-home2 h4, .blog-home2 h5, .blog-home2 h6 {
-  color: white;
+  color: #3e4555;
 }
 
 .blog-home2 .font-weight-medium {
@@ -13,7 +13,7 @@
 }
 
 .blog-home2 .subtitle {
-  color: whitesmoke;
+  color: #8d97ad;
   line-height: 24px;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .blog-home2 a.link {
-  color: Black;
+  color: #3e4555;
 }
 
 .blog-home2 a.link:hover {
